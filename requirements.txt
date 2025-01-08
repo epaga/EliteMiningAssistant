@@ -1,0 +1,5 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+pandas>=2.0.0
+pyttsx3>=2.90
+pyperclip>=1.8.2 
