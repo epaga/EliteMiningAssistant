@@ -1,4 +1,4 @@
-# Elite Dangerous Trading Assistant
+# Elite Dangerous Mining Assistant
 
 *"Because alt-tabbing between ED and Inara is so 3307..."*
 
