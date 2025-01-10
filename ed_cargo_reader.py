@@ -12,11 +12,13 @@ import argparse
 MATERIAL_IDS = {
     'Painite': 83,
     'Low Temperature Diamond': 276,
+    'Low Temp. Diamonds': 276,
     'Void Opal': 350,
     'Benitoite': 347,
     'Serendibite': 344,
     'Monazite': 345,
     'Musgravite': 346,
+    'musgravite': 346,
     'Platinum': 46,
     'Grandidierite': 348,
     'grandidierite': 348
